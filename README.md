@@ -74,7 +74,7 @@ Created FiveM supported plane pack. One resource with up to 140+ planes.
 * Embraer EMB-111 Bandeirulha (Chilean Air Force) by CANAL EMBRAER GTA (emb111)
 * Embraer 120 House by CANAL EMBRAER GTA (emb120)
 * Embraer 145 R-99 FAB by CANAL EMBRAER GTA (e145f)
-*Embraer 145 MB by CANAL EMBRAER GTA (e145m)
+* Embraer 145 MB by CANAL EMBRAER GTA (e145m)
 * Embraer A-1 AMX International by CANAL EMBRAER GTA (amx)
 * Embraer A-29B Squadron of Smoke by CANAL EMBRAER GTA (ab29)
 * Embraer A-29B Super Tucano US Factory by CANAL EMBRAER GTA (au29)
